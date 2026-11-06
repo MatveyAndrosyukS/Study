@@ -14,7 +14,7 @@
 
 
 
-* BinarySearch - бинарный поиск
+* BinarySearchMW - бинарный поиск
 
 
 
