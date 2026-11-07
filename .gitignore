@@ -1,0 +1,12 @@
+# Visual Studio / MSVC
+.vs/
+bin/
+obj/
+x64/
+Debug/
+Release/
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
